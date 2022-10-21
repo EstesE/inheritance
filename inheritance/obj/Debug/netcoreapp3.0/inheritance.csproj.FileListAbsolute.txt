@@ -1,0 +1,14 @@
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.AssemblyInfo.cs
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.exe
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.deps.json
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.runtimeconfig.json
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.runtimeconfig.dev.json
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.dll
+C:\Users\eric\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.0\inheritance.pdb
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.dll
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.pdb
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\eric\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.0\inheritance.genruntimeconfig.cache

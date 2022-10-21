@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFL2a/t++ns+uZpasUiTNKxwsYUZU5OJ+sX/7187JhPb7zVjmJkGOqOkXzkdyuoMaI/T8HzB4+ZvgYkDvXjR0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eric\\source\\repos\\inheritance\\inheritance\\inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
